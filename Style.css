@@ -1,0 +1,59 @@
+body{
+    background-color: #3f4e79;
+}
+
+img{
+    margin-top: 80px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: block; margin-left: auto; margin-right: auto;
+}
+
+h1{
+    font-weight:bolder;
+    padding-top: 25px;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(26, 7, 109);
+}
+
+.redes-sociais{
+    text-align: center;
+    padding-top: 30px;
+    margin: 5px;   
+}
+button{
+    padding-top: 50px;
+    top: 35px;
+    background-color: #4ab0cf;
+    border: none;
+    color: rgb(236, 170, 170);
+    padding: 12px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 15px;   
+}
+
+form{
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%);
+    border: 1px solid rgb(167, 191, 226);
+    border-radius: 25%;
+    background-color: rgb(137, 235, 235);
+}
+
+.imag-linke{
+    height: 35px;
+    width: 35px;
+    margin: 1px;
+    display: inline;  
+}
